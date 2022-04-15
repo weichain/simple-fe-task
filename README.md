@@ -19,7 +19,7 @@ npm run start
 
 ```
 
-endpoints:
+endpoints: <br />
 http://localhost:8080/price/btc <br />
 http://localhost:8080/price/eth <br />
 http://localhost:8080/price/ae <br />

@@ -2,6 +2,8 @@
 
 Example view:
 
+![react-task](https://user-images.githubusercontent.com/59697478/163563722-eedf11af-393c-4547-817d-ec22b8474f3c.png)
+
 ## Requirements:
 
 Create a dynamic board with the prices of cryptocurrencies (BTC, ETH, AE) in the currency chosen by dropdown (BGN, EUR, GBP). Prices must be updated every 5 seconds.

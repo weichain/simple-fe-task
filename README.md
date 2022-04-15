@@ -20,13 +20,13 @@ npm run start
 ```
 
 endpoints:
-http://localhost:8080/price/btc
-http://localhost:8080/price/eth
-http://localhost:8080/price/ae
-
-http://localhost:8080/fiat/bgn
-http://localhost:8080/fiat/eur
-http://localhost:8080/fiat/gbp
+http://localhost:8080/price/btc <br />
+http://localhost:8080/price/eth <br />
+http://localhost:8080/price/ae <br />
+<br />
+http://localhost:8080/fiat/bgn <br />
+http://localhost:8080/fiat/eur <br />
+http://localhost:8080/fiat/gbp <br />
 
 ## Tip
 
